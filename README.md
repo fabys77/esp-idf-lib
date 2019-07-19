@@ -37,4 +37,5 @@ make menuconfig
 | **mcp23017**   | Driver for 16-bit I2C GPIO expander                                     | BSD     | Yes
 | **tda74xx**    | Driver for TDA7439/TDA7439DS/TDA7440D audioprocessors                   | MIT     | Yes
 | **ttn**        | Driver for RFM95 LORA Module                                            | MIT     | Yes
+| **u8g2**       | Driver for OLED DISPLAY                                                 | BSD     | Yes
 
